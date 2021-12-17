@@ -1,8 +1,7 @@
 ## Welcome to nymlinkin GitHub Pages
-[Facebook Profile](https://www.facebook.com/nymlinkin/)
 
 
-### PS4 Jailbreak Community
+### Jailbreak For Community
 
 Important Collection of soft/pkg downloads
 
