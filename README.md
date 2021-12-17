@@ -1,5 +1,5 @@
 ## Welcome to nymlinkin GitHub Pages
-#[Facebook]9https://www.facebook.com/nymlinkin/)
+[Facebook](https://www.facebook.com/nymlinkin/)
 
 You can use the [editor on GitHub](https://github.com/nymlinkin/nymlinkin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
