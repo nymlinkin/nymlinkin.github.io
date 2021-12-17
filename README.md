@@ -12,7 +12,7 @@ Important Collection of soft/pkg downloads
 
 
 - PS4 Games Download Site : [www.dlpsgame.org](https://dlpsgame.org/category/ps4/)
-- Remote Pkg Installer for PS4 : [RPI](shorturl.at/nAHVX)
+- Remote Pkg Installer for PS4 : [RPI](https://mega.nz/file/2dN1XajB#Z5fXyFoKOXFI_ujgGoCZfFFy5nyn7OWo6vF6h_HmWhQ)
 - Remote pkg Sender for PC : [Remote pkg sender](https://github.com/iref-use/ps4-remote-pkg-sender/releases)
 
 
