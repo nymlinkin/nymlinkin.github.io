@@ -1,15 +1,12 @@
 ## Welcome to nymlinkin GitHub Pages
-```[Facebook Profile](https://www.facebook.com/nymlinkin/)
+[Facebook Profile](https://www.facebook.com/nymlinkin/)
 
-You can use the [editor on GitHub](https://github.com/nymlinkin/nymlinkin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### PS4
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```ps4 jailbreak community Bangladesh
 Syntax highlighted code block
 
 # Header 1
