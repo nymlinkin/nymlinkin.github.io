@@ -25,8 +25,8 @@ Important Collection of soft/pkg downloads
 
 
 
-### Support or Contact
+### Contact
 
-- Nayeem Ahmed
+-nymlinkin
 [Contact](https://www.facebook.com/nymlinkin/)
 
