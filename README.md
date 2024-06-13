@@ -28,5 +28,5 @@ Important Collection of soft/pkg downloads
 ### Contact
 
 -nymlinkin
-[Contact](https://www.facebook.com/nymlinkin/)
+[Contact](https://t.me/nymlinkin/)
 
